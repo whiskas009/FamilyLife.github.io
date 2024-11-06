@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "403916467235",
+    "firebase_url": "https://supersonic-spiderking-default-rtdb.firebaseio.com",
+    "project_id": "supersonic-spiderking",
+    "storage_bucket": "supersonic-spiderking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403916467235:android:90e91502b5b0bd2a0ad596",
+        "android_client_info": {
+          "package_name": "com.xia.familylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC716wBfksOS1VTfB4eFaXxXGoVvVGzLIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403916467235-25m46pti26mvc54fq6vf7leia5kv5g9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xia.familylife",
+                "app_store_id": "6449919224"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403916467235:android:b5138a921620d5600ad596",
+        "android_client_info": {
+          "package_name": "com.xia.soldiersfrontline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC716wBfksOS1VTfB4eFaXxXGoVvVGzLIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403916467235-25m46pti26mvc54fq6vf7leia5kv5g9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xia.familylife",
+                "app_store_id": "6449919224"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403916467235:android:a800b44221ab1c1f0ad596",
+        "android_client_info": {
+          "package_name": "com.xia.spiderking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC716wBfksOS1VTfB4eFaXxXGoVvVGzLIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403916467235-bphfu1nratu26tjjd73qv8nr90vatem9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403916467235-25m46pti26mvc54fq6vf7leia5kv5g9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xia.familylife",
+                "app_store_id": "6449919224"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
